@@ -17,7 +17,7 @@ Un jeu de course à vélo développé en **C++** avec la bibliothèque graphique
 <br/>
 
 <div align="center">
-  <img src="gameplay.gif" alt="Gameplay du jeu" width="800" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+  <img src="int.png" alt="Gameplay du jeu" width="800" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
   <br/>
   <em>Figure 2 : Gameplay en action</em>
 </div>
