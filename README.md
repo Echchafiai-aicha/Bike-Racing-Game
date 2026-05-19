@@ -8,18 +8,12 @@ Un jeu de course à vélo développé en **C++** avec la bibliothèque graphique
 
 ## 🎮 Aperçu
 
-<div align="center">
-  <img src="screenshot.png" alt="Capture d'écran du jeu de course à vélo" width="800" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
-  <br/>
-  <em>Figure 1 : Interface graphique du jeu de course à vélo</em>
-</div>
-
-<br/>
+ 
 
 <div align="center">
   <img src="int.png" alt="Gameplay du jeu" width="800" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
   <br/>
-  <em>Figure 2 : Gameplay en action</em>
+  <em>Figure  : Gameplay en action</em>
 </div>
 
 ## 📋 Fonctionnalités
