@@ -1,5 +1,4 @@
-# Bike-Racing-Game
-# 🚴‍♂️ Jeu de Course à Vélo - SDL2
+ # 🚴‍♂️ Jeu de Course à Vélo - SDL2
 
 [![Langage](https://img.shields.io/badge/langage-C%2B%2B17-blue.svg)](https://isocpp.org/)
 [![Bibliothèque](https://img.shields.io/badge/SDL2-2.0-green.svg)](https://www.libsdl.org/)
@@ -18,8 +17,7 @@ Un jeu de course à vélo développé en **C++** avec la bibliothèque graphique
 <br/>
 
 <div align="center">
-  <img src="<img width="529" height="519" alt="int" src="https://github.com/user-attachments/assets/e2ab4726-393b-4b02-90a3-9b9f33dc47e8" />
-" alt="Gameplay du jeu" width="800" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+  <img src="gameplay.gif" alt="Gameplay du jeu" width="800" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
   <br/>
   <em>Figure 2 : Gameplay en action</em>
 </div>
